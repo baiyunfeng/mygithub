@@ -1,1 +1,2 @@
 fileB add to test git remote
+add new line
